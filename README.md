@@ -8,6 +8,7 @@
 
 Custom animation with Vanilla Js. 
 
+Project Demo: [https://animated-on-scroll.netlify.app/](https://animated-on-scroll.netlify.app/)
 
 ## Hi, I'm Shahid! 👋
 
@@ -44,7 +45,6 @@ I’m a perfectionist to the smallest pixel and I always take care of responsive
 
 ## Credits
 
-- [Brad Traversy](https://github.com/bradtraversy)
 - [50 Projects 50 Days](https://50projects50days.com)
 
 ## Questions?
